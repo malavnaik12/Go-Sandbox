@@ -1,0 +1,2 @@
+go mod init github.com/malavnaik12/<repo_name> - How we create a go module
+    - Similar to how we use git init to create a git repo
